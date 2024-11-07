@@ -17,6 +17,7 @@ import javax.swing.JTextField;
  * Clase que gestiona la interfaz gráfica del servidor, que muestra un log de 
  * las conexiones y desconexiones de los diferentes clientes, así como un mensaje
  * de confirmación de que el servidor esta corriendo correctamente.
+ * 
  * @author Erick Navarro
  */
 public class VentanaS extends javax.swing.JFrame {
